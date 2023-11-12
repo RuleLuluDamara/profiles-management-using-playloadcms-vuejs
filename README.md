@@ -2,7 +2,7 @@
 
 ## Description
 
-PlayloadCMS Vue.js Profiles Management is a student profiles management system developed using Vue.js and MongoDB. This project includes functionalities for adding, editing, and displaying student profiles, featuring a user-friendly interface and seamless MongoDB integration.
+PlayloadCMS Vue.js Profiles Management is a profiles management system developed using Vue.js and MongoDB. This project includes functionalities for adding, editing, and displaying student profiles, featuring a user-friendly interface and seamless MongoDB integration.
 
 ## Contributors
 
